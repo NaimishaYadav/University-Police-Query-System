@@ -1,13 +1,5 @@
 Name   : Naimisha Yadav Marri Ravi
-id     : 017538636
-Email  : NAIMISHAYADAV.MARRIRAVI@student.csulb.edu
 **********************************************************
-
-MySQL Connector/J :
- 
-I worked on the latest version of mysql and used "mysql-connector-java-8.0.13.jar". In the code to call the class that implements java.sql.driver I have passed
-com.mysql.cj.jdbc.Driver since the old class name(com.mysql.jdbc.Driver) has been deprecated. Here, referring to "Class.forName("com.mysql.cj.jdbc.Driver");" statement.
-
 **********************************************************
 
 Populate Data:
